@@ -1,2 +1,2 @@
 # Assignment-3
-This is assignment 1 python practice
+This is assignment 3 python practice
